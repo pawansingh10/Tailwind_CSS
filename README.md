@@ -1,5 +1,6 @@
 # Tailwind_CSS
 [TailWind](https://tailwindcss.com/)
+Create website within 5-10 minutes!
 
 ## **TailWind CSS**
 
@@ -31,7 +32,7 @@
 
 ### Using TailBlocks
 
-- [TailWind CSS](https://tailwindcss.com/docs/) + [Tail Blocks ama](https://tailblocks.cc/)
+- [TailWind CSS](https://tailwindcss.com/docs/) + [Tail Blocks](https://tailblocks.cc/)
 - Make Header
 - Select Header > ViewCode > CopyCode > Paste
 - Create Body of your website
