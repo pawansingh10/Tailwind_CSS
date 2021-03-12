@@ -24,5 +24,19 @@
 
 2. By using CDN add the following code to use Tailwind CSS in your index.html file
 ```html
-     A content delivery network (CDN) refers to a geographically distributed group of servers that work together to provide fast delivery of Internet content.
+      <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 ```
+
+3. You can work with components of Tailwind CSS
+
+### Using TailBlocks
+
+- [TailWind CSS](https://tailwindcss.com/docs/) + [Tail Blocks ama](https://tailblocks.cc/)
+- Make Header
+- Select Header > ViewCode > CopyCode > Paste
+- Create Body of your website
+- Create Contact, etc etc
+- Create Footer
+
+### [Source Unsplash](https://source.unsplash.com/)
+- Website from which any image can reference on your website!
